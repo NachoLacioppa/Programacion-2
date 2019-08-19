@@ -1,0 +1,999 @@
+# depslib dependency file v1.0
+1527173459 source:c:\users\nacho\desktop\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"Extras.h"
+	"Clientes.h"
+	"Menues.h"
+
+1527165922 c:\users\nacho\desktop\tp2_nacholacioppa\extras.h
+
+1527188279 c:\users\nacho\desktop\tp2_nacholacioppa\menues.h
+
+1527545303 c:\users\nacho\desktop\tp2_nacholacioppa\clientes.h
+
+1527173460 source:c:\users\administrador\downloads\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"Extras.h"
+	"Clientes.h"
+	"Menues.h"
+
+1527165924 c:\users\administrador\downloads\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1527775303 c:\users\administrador\downloads\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1527771279 c:\users\administrador\downloads\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1527950702 source:c:\users\ilacioppa\desktop\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"Extras.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Menues.h"
+
+1527950931 c:\users\ilacioppa\desktop\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1528236386 c:\users\ilacioppa\desktop\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1528237021 c:\users\ilacioppa\desktop\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1527950702 source:c:\users\ilacioppa\desktop\general stuff\stuff nacho\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"Extras.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Menues.h"
+
+1527950931 c:\users\ilacioppa\desktop\general stuff\stuff nacho\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1527951151 c:\users\ilacioppa\desktop\general stuff\stuff nacho\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1527942882 c:\users\ilacioppa\desktop\general stuff\stuff nacho\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1527949367 c:\users\ilacioppa\desktop\general stuff\stuff nacho\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1528236946 c:\users\ilacioppa\desktop\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1530837515 source:c:\users\nacho\desktop\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Fecha.h"
+	"Extras.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Menues.h"
+
+1528976490 c:\users\nacho\desktop\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1530810049 c:\users\nacho\desktop\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1530817101 c:\users\nacho\desktop\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1530815554 c:\users\nacho\desktop\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1528381421 c:\users\nacho\desktop\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1530185077 c:\users\nacho\desktop\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1530916268 source:e:\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Fecha.h"
+	"Extras.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Menues.h"
+
+1528381422 e:\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1530971538 e:\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1530917952 e:\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1530971828 e:\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1530185078 e:\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1530916986 e:\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1530916268 source:c:\users\lbonabello\desktop\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Fecha.h"
+	"Extras.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Menues.h"
+
+1528381422 c:\users\lbonabello\desktop\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1530971538 c:\users\lbonabello\desktop\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1530917952 c:\users\lbonabello\desktop\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1530973806 c:\users\lbonabello\desktop\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1530185078 c:\users\lbonabello\desktop\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1530975889 c:\users\lbonabello\desktop\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1530975922 source:f:\tp2_nacholacioppa_version bona\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Fecha.h"
+	"Extras.h"
+	"Tecnicos.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Menues.h"
+
+1528381422 f:\tp2_nacholacioppa_version bona\tp2_nacholacioppa\fecha.h
+
+1530971538 f:\tp2_nacholacioppa_version bona\tp2_nacholacioppa\extras.h
+
+1530984814 f:\tp2_nacholacioppa_version bona\tp2_nacholacioppa\tecnicos.h
+
+1530917952 f:\tp2_nacholacioppa_version bona\tp2_nacholacioppa\clientes.h
+
+1530973808 f:\tp2_nacholacioppa_version bona\tp2_nacholacioppa\include\repuestos.h
+
+1530185078 f:\tp2_nacholacioppa_version bona\tp2_nacholacioppa\include\reparaciones.h
+
+1530975890 f:\tp2_nacholacioppa_version bona\tp2_nacholacioppa\menues.h
+
+1530975922 source:c:\users\nacho\desktop\tp2_nacholacioppa_version bona\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Fecha.h"
+	"Extras.h"
+	"Tecnicos.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Menues.h"
+
+1528381422 c:\users\nacho\desktop\tp2_nacholacioppa_version bona\tp2_nacholacioppa\fecha.h
+
+1530971538 c:\users\nacho\desktop\tp2_nacholacioppa_version bona\tp2_nacholacioppa\extras.h
+
+1531002524 c:\users\nacho\desktop\tp2_nacholacioppa_version bona\tp2_nacholacioppa\tecnicos.h
+
+1530917952 c:\users\nacho\desktop\tp2_nacholacioppa_version bona\tp2_nacholacioppa\clientes.h
+
+1530973808 c:\users\nacho\desktop\tp2_nacholacioppa_version bona\tp2_nacholacioppa\include\repuestos.h
+
+1530185078 c:\users\nacho\desktop\tp2_nacholacioppa_version bona\tp2_nacholacioppa\include\reparaciones.h
+
+1531002053 c:\users\nacho\desktop\tp2_nacholacioppa_version bona\tp2_nacholacioppa\menues.h
+
+1531682289 source:c:\users\nacho\desktop\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Extras.h"
+	"TECNICOS.H"
+	"LOGIN.h"
+	"Fecha.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Menues.h"
+
+1531621937 c:\users\nacho\desktop\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1531754898 c:\users\nacho\desktop\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1531755591 c:\users\nacho\desktop\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\tecnicos.h
+
+1531416324 c:\users\nacho\desktop\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1531608941 c:\users\nacho\desktop\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1531757518 c:\users\nacho\desktop\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1531757215 c:\users\nacho\desktop\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1531755321 c:\users\nacho\desktop\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\login.h
+
+1531784474 source:e:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Extras.h"
+	"TECNICOS.H"
+	"LOGIN.h"
+	"Fecha.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Reportes.h"
+	"Mantenimiento.h"
+	"Menues.h"
+
+1531800532 e:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1531783728 e:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\tecnicos.h
+
+1531782402 e:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\login.h
+
+1531621938 e:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1531783728 e:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1531783728 e:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1531867494 e:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1531864504 e:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1531783728 e:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\reportes.h
+
+1531787630 e:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\mantenimiento.h
+
+1531784474 source:f:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Extras.h"
+	"TECNICOS.H"
+	"LOGIN.h"
+	"Fecha.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Reportes.h"
+	"Mantenimiento.h"
+	"Menues.h"
+
+1531800532 f:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1531783728 f:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\tecnicos.h
+
+1531782402 f:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\login.h
+
+1531621938 f:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1531783728 f:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1531783728 f:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1531847178 f:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1531783728 f:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\reportes.h
+
+1531787630 f:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\mantenimiento.h
+
+1531847178 f:\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1531784474 source:c:\users\ilacioppa\desktop\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Extras.h"
+	"TECNICOS.H"
+	"LOGIN.h"
+	"Fecha.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Reportes.h"
+	"Mantenimiento.h"
+	"Menues.h"
+
+1531800532 c:\users\ilacioppa\desktop\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1531783728 c:\users\ilacioppa\desktop\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\tecnicos.h
+
+1531782402 c:\users\ilacioppa\desktop\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\login.h
+
+1531621938 c:\users\ilacioppa\desktop\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1531783728 c:\users\ilacioppa\desktop\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1531783728 c:\users\ilacioppa\desktop\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1531868617 c:\users\ilacioppa\desktop\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1531783728 c:\users\ilacioppa\desktop\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\reportes.h
+
+1531787630 c:\users\ilacioppa\desktop\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\mantenimiento.h
+
+1531867799 c:\users\ilacioppa\desktop\tp2_nacholacioppa-20180712t163856z-001\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1531784474 source:c:\users\ilacioppa\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Extras.h"
+	"TECNICOS.H"
+	"LOGIN.h"
+	"Fecha.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Reportes.h"
+	"Mantenimiento.h"
+	"Menues.h"
+
+1531800532 c:\users\ilacioppa\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1531783728 c:\users\ilacioppa\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\tecnicos.h
+
+1531782402 c:\users\ilacioppa\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\login.h
+
+1531621938 c:\users\ilacioppa\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1531783728 c:\users\ilacioppa\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1531783728 c:\users\ilacioppa\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1531871099 c:\users\ilacioppa\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1531783728 c:\users\ilacioppa\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\reportes.h
+
+1531787630 c:\users\ilacioppa\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\mantenimiento.h
+
+1531867799 c:\users\ilacioppa\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1531784474 source:e:\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Extras.h"
+	"TECNICOS.H"
+	"LOGIN.h"
+	"Fecha.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Reportes.h"
+	"Mantenimiento.h"
+	"Menues.h"
+
+1531800532 e:\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1531783728 e:\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\tecnicos.h
+
+1531782402 e:\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\login.h
+
+1531621938 e:\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1531783728 e:\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1531783728 e:\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1531875102 e:\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1531875102 e:\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\reportes.h
+
+1531787630 e:\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\mantenimiento.h
+
+1531875102 e:\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1532013326 source:c:\users\nacho\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Extras.h"
+	"TECNICOS.H"
+	"LOGIN.h"
+	"Fecha.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Reportes.h"
+	"Mantenimiento.h"
+	"Menues.h"
+
+1532114702 c:\users\nacho\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1547965943 c:\users\nacho\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\tecnicos.h
+
+1547965230 c:\users\nacho\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\login.h
+
+1532401648 c:\users\nacho\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1532115810 c:\users\nacho\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1532115810 c:\users\nacho\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1547996471 c:\users\nacho\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1532316996 c:\users\nacho\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\reportes.h
+
+1531787630 c:\users\nacho\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\mantenimiento.h
+
+1547996010 c:\users\nacho\desktop\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1531784474 source:c:\users\ilacioppa\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Extras.h"
+	"TECNICOS.H"
+	"LOGIN.h"
+	"Fecha.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Reportes.h"
+	"Mantenimiento.h"
+	"Menues.h"
+
+1531800532 c:\users\ilacioppa\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1531942148 c:\users\ilacioppa\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\tecnicos.h
+
+1531942148 c:\users\ilacioppa\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\login.h
+
+1531621938 c:\users\ilacioppa\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1531942690 c:\users\ilacioppa\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1531783728 c:\users\ilacioppa\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1531947749 c:\users\ilacioppa\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1531958995 c:\users\ilacioppa\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\reportes.h
+
+1531787630 c:\users\ilacioppa\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\mantenimiento.h
+
+1531959255 c:\users\ilacioppa\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1531784474 source:e:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Extras.h"
+	"TECNICOS.H"
+	"LOGIN.h"
+	"Fecha.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Reportes.h"
+	"Mantenimiento.h"
+	"Menues.h"
+
+1531800532 e:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1531942150 e:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\tecnicos.h
+
+1531942150 e:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\login.h
+
+1531621938 e:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1531942692 e:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1531783728 e:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1531947750 e:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1531959872 e:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\reportes.h
+
+1531787630 e:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\mantenimiento.h
+
+1531959256 e:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1531784474 source:i:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Extras.h"
+	"TECNICOS.H"
+	"LOGIN.h"
+	"Fecha.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Reportes.h"
+	"Mantenimiento.h"
+	"Menues.h"
+
+1531800532 i:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1531942150 i:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\tecnicos.h
+
+1531942150 i:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\login.h
+
+1531621938 i:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1531942692 i:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1531783728 i:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1531947750 i:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1531959872 i:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\reportes.h
+
+1531787630 i:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\mantenimiento.h
+
+1531959256 i:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1531972724 source:f:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Extras.h"
+	"TECNICOS.H"
+	"LOGIN.h"
+	"Fecha.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Reportes.h"
+	"Mantenimiento.h"
+	"Menues.h"
+
+1531800532 f:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1531942150 f:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\tecnicos.h
+
+1531942150 f:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\login.h
+
+1531621938 f:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1531971750 f:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1531972606 f:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1531947750 f:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1531972794 f:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\reportes.h
+
+1531787630 f:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\mantenimiento.h
+
+1531970902 f:\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1531972724 source:c:\users\nacho\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Extras.h"
+	"TECNICOS.H"
+	"LOGIN.h"
+	"Fecha.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Reportes.h"
+	"Mantenimiento.h"
+	"Menues.h"
+
+1531800532 c:\users\nacho\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1531942150 c:\users\nacho\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\tecnicos.h
+
+1531942150 c:\users\nacho\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\login.h
+
+1531621938 c:\users\nacho\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1531971750 c:\users\nacho\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1532001573 c:\users\nacho\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1532002668 c:\users\nacho\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1531972794 c:\users\nacho\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\reportes.h
+
+1531787630 c:\users\nacho\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\mantenimiento.h
+
+1532000634 c:\users\nacho\desktop\tp lab 2 ok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1532013324 source:c:\users\nacho\desktop\tp lab 2 okok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Extras.h"
+	"TECNICOS.H"
+	"LOGIN.h"
+	"Fecha.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Reportes.h"
+	"Mantenimiento.h"
+	"Menues.h"
+
+1531800532 c:\users\nacho\desktop\tp lab 2 okok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1531942150 c:\users\nacho\desktop\tp lab 2 okok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\tecnicos.h
+
+1532019084 c:\users\nacho\desktop\tp lab 2 okok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\login.h
+
+1531621938 c:\users\nacho\desktop\tp lab 2 okok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1531971750 c:\users\nacho\desktop\tp lab 2 okok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1532001574 c:\users\nacho\desktop\tp lab 2 okok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1532002670 c:\users\nacho\desktop\tp lab 2 okok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1532023426 c:\users\nacho\desktop\tp lab 2 okok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\reportes.h
+
+1531787630 c:\users\nacho\desktop\tp lab 2 okok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\mantenimiento.h
+
+1532020906 c:\users\nacho\desktop\tp lab 2 okok\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1532013326 source:c:\users\nacho\desktop\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Extras.h"
+	"TECNICOS.H"
+	"LOGIN.h"
+	"Fecha.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Reportes.h"
+	"Mantenimiento.h"
+	"Menues.h"
+
+1532114702 c:\users\nacho\desktop\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1532115810 c:\users\nacho\desktop\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\tecnicos.h
+
+1532117616 c:\users\nacho\desktop\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\login.h
+
+1532401646 c:\users\nacho\desktop\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1532115810 c:\users\nacho\desktop\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1532115810 c:\users\nacho\desktop\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1532116618 c:\users\nacho\desktop\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1532316994 c:\users\nacho\desktop\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\reportes.h
+
+1531787630 c:\users\nacho\desktop\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\mantenimiento.h
+
+1532113416 c:\users\nacho\desktop\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1532013326 source:i:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Extras.h"
+	"TECNICOS.H"
+	"LOGIN.h"
+	"Fecha.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Reportes.h"
+	"Mantenimiento.h"
+	"Menues.h"
+
+1532025012 i:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1531942150 i:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\tecnicos.h
+
+1532019086 i:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\login.h
+
+1531621938 i:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1531971750 i:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1532001574 i:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1532024798 i:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1532023428 i:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\reportes.h
+
+1531787630 i:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\mantenimiento.h
+
+1532020908 i:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1532013326 source:f:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Extras.h"
+	"TECNICOS.H"
+	"LOGIN.h"
+	"Fecha.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Reportes.h"
+	"Mantenimiento.h"
+	"Menues.h"
+
+1532025012 f:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1531942150 f:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\tecnicos.h
+
+1532019086 f:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\login.h
+
+1531621938 f:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1531971750 f:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1532001574 f:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1532024798 f:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1532023428 f:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\reportes.h
+
+1531787630 f:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\mantenimiento.h
+
+1532020908 f:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1532013326 source:e:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Extras.h"
+	"TECNICOS.H"
+	"LOGIN.h"
+	"Fecha.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Reportes.h"
+	"Mantenimiento.h"
+	"Menues.h"
+
+1532114702 e:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1532115810 e:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\tecnicos.h
+
+1532117616 e:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\login.h
+
+1532401648 e:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1532115810 e:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1532115810 e:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1532116618 e:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1532316996 e:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\reportes.h
+
+1531787630 e:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\mantenimiento.h
+
+1532113416 e:\tp lab 2 termina2\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1532013326 source:c:\users\nacho\desktop\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Extras.h"
+	"TECNICOS.H"
+	"LOGIN.h"
+	"Fecha.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Reportes.h"
+	"Mantenimiento.h"
+	"Menues.h"
+
+1532114702 c:\users\nacho\desktop\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1547965943 c:\users\nacho\desktop\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\tecnicos.h
+
+1547965230 c:\users\nacho\desktop\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\login.h
+
+1532401648 c:\users\nacho\desktop\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1532115810 c:\users\nacho\desktop\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1532115810 c:\users\nacho\desktop\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1548124623 c:\users\nacho\desktop\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1532316996 c:\users\nacho\desktop\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\reportes.h
+
+1531787630 c:\users\nacho\desktop\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\mantenimiento.h
+
+1548124801 c:\users\nacho\desktop\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
+1532013326 source:d:\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<ctype.h>
+	<locale.h>
+	"Extras.h"
+	"TECNICOS.H"
+	"LOGIN.h"
+	"Fecha.h"
+	"Clientes.h"
+	"Repuestos.h"
+	"Reparaciones.h"
+	"Reportes.h"
+	"Mantenimiento.h"
+	"Menues.h"
+
+1532114702 d:\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\extras.h
+
+1547965943 d:\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\tecnicos.h
+
+1547965230 d:\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\login.h
+
+1532401648 d:\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\fecha.h
+
+1532115810 d:\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\clientes.h
+
+1532115810 d:\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\repuestos.h
+
+1548124623 d:\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\include\reparaciones.h
+
+1532316996 d:\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\reportes.h
+
+1531787630 d:\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\mantenimiento.h
+
+1548124801 d:\backup\tp2_nacholacioppa-ok\tp2_nacholacioppa\tp2_nacholacioppa\menues.h
+
